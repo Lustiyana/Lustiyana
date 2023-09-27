@@ -1,5 +1,6 @@
-# Lustiyana
-Selamat datang di profil GitHub saya! Saya [Nama Anda], [deskripsi singkat tentang diri Anda].
+# Hi there 👋
+## I'm Lustiyana
+Frontend | Fullstack | Machine Learning
 
 ## Tentang Saya
 A graduate from Informatics Engineering who’s interested wilth web development especially in front-end. Have experience in building dynamic web apps using Next.js, slicing UI from Figma with TailwindCSS, and deploying web apps using Nginx in Ubuntu. And also have flexibility with MERN stack. 
