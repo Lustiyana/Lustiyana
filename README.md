@@ -1,9 +1,10 @@
-# Hi there 👋
-## I'm Lustiyana
+# Hi there 👋 I'm Lustiyana
 Frontend | Fullstack | Machine Learning
 
 ## Tentang Saya
 A graduate from Informatics Engineering who’s interested wilth web development especially in front-end. Have experience in building dynamic web apps using Next.js, slicing UI from Figma with TailwindCSS, and deploying web apps using Nginx in Ubuntu. And also have flexibility with MERN stack. 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustiyana&layout=compact" height=180 />
 
 ## Kontak
 Anda dapat menghubungi saya melalui (lustiyana1801@gmail.com) atau melalui akun media sosial berikut:
