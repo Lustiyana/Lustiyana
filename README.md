@@ -1,4 +1,15 @@
-### Hi there 👋
+# Lustiyana
+Selamat datang di profil GitHub saya! Saya [Nama Anda], [deskripsi singkat tentang diri Anda].
+
+## Tentang Saya
+A graduate from Informatics Engineering who’s interested wilth web development especially in front-end. Have experience in building dynamic web apps using Next.js, slicing UI from Figma with TailwindCSS, and deploying web apps using Nginx in Ubuntu. And also have flexibility with MERN stack. 
+
+## Kontak
+Anda dapat menghubungi saya melalui (lustiyana1801@gmail.com) atau melalui akun media sosial berikut:
+- [LinkedIn](https://www.linkedin.com/in/username)
+
+Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk melihat proyek-proyek saya dan jangan sungkan untuk berkontribusi atau memberi masukan.
+
 
 <!--
 **Lustiyana/Lustiyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
