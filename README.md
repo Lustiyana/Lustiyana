@@ -7,10 +7,10 @@ A graduate from Informatics Engineering who’s interested wilth web development
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustiyana&layout=compact" height=180 />
 
 ## Kontak
-Anda dapat menghubungi saya melalui (lustiyana1801@gmail.com) atau melalui akun media sosial berikut:
+You can contact me via (lustiyana1801@gmail.com) or via the following social media accounts:
 - [LinkedIn](https://www.linkedin.com/in/username)
 
-Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk melihat proyek-proyek saya dan jangan sungkan untuk berkontribusi atau memberi masukan.
+Thanks for visiting my GitHub profile! Feel free to check out my projects and feel free to contribute or give feedback.
 
 
 <!--
